@@ -1,0 +1,12 @@
+C:\Project\ChatApp DotNet,SignalR and React\chat_app Back\obj\Release\net7.0\PubTmp\Out\chat_app.exe
+C:\Project\ChatApp DotNet,SignalR and React\chat_app Back\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Project\ChatApp DotNet,SignalR and React\chat_app Back\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Project\ChatApp DotNet,SignalR and React\chat_app Back\obj\Release\net7.0\PubTmp\Out\chat_app.dll
+C:\Project\ChatApp DotNet,SignalR and React\chat_app Back\obj\Release\net7.0\PubTmp\Out\chat_app.deps.json
+C:\Project\ChatApp DotNet,SignalR and React\chat_app Back\obj\Release\net7.0\PubTmp\Out\chat_app.runtimeconfig.json
+C:\Project\ChatApp DotNet,SignalR and React\chat_app Back\obj\Release\net7.0\PubTmp\Out\chat_app.pdb
+C:\Project\ChatApp DotNet,SignalR and React\chat_app Back\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Project\ChatApp DotNet,SignalR and React\chat_app Back\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Project\ChatApp DotNet,SignalR and React\chat_app Back\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\ChatApp DotNet,SignalR and React\chat_app Back\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\ChatApp DotNet,SignalR and React\chat_app Back\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

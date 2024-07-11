@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/e1ac7b1c-7ed3-4430-a53a-0f98c9a2137f/resourceGroups/ChatAppWithSignalR/providers/Microsoft.Web/sites/ChatRoomAppWithSignalR"
+}

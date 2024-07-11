@@ -1,0 +1,99 @@
+C:\Project\chat_app\bin\Debug\net7.0\chat_app.exe
+C:\Project\chat_app\bin\Debug\net7.0\chat_app.dll
+C:\Project\chat_app\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Project\chat_app\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Project\chat_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\chat_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\chat_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project\chat_app\bin\Debug\net7.0\appsettings.Development.json
+C:\Project\chat_app\bin\Debug\net7.0\appsettings.json
+C:\Project\chat_app\obj\Debug\net7.0\chat_app.csproj.AssemblyReference.cache
+C:\Project\chat_app\obj\Debug\net7.0\chat_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\chat_app\obj\Debug\net7.0\chat_app.AssemblyInfoInputs.cache
+C:\Project\chat_app\obj\Debug\net7.0\chat_app.AssemblyInfo.cs
+C:\Project\chat_app\obj\Debug\net7.0\chat_app.csproj.CoreCompileInputs.cache
+C:\Project\chat_app\obj\Debug\net7.0\chat_app.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\chat_app\obj\Debug\net7.0\chat_app.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\chat_app\obj\Debug\net7.0\staticwebassets\msbuild.chat_app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project\chat_app\obj\Debug\net7.0\staticwebassets\msbuild.build.chat_app.props
+C:\Project\chat_app\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.chat_app.props
+C:\Project\chat_app\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.chat_app.props
+C:\Project\chat_app\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Project\chat_app\obj\Debug\net7.0\staticwebassets.build.json
+C:\Project\chat_app\obj\Debug\net7.0\staticwebassets.development.json
+C:\Project\chat_app\obj\Debug\net7.0\scopedcss\bundle\chat_app.styles.css
+C:\Project\chat_app\obj\Debug\net7.0\chat_app.csproj.CopyComplete
+C:\Project\chat_app\obj\Debug\net7.0\chat_app.dll
+C:\Project\chat_app\obj\Debug\net7.0\refint\chat_app.dll
+C:\Project\chat_app\obj\Debug\net7.0\chat_app.pdb
+C:\Project\chat_app\bin\Debug\net7.0\chat_app.deps.json
+C:\Project\chat_app\bin\Debug\net7.0\chat_app.runtimeconfig.json
+C:\Project\chat_app\bin\Debug\net7.0\chat_app.pdb
+C:\Project\chat_app\obj\Debug\net7.0\chat_app.genruntimeconfig.cache
+C:\Project\chat_app\obj\Debug\net7.0\ref\chat_app.dll
+C:\Project\chat\chat_app Back\bin\Debug\net7.0\appsettings.Development.json
+C:\Project\chat\chat_app Back\bin\Debug\net7.0\appsettings.json
+C:\Project\chat\chat_app Back\bin\Debug\net7.0\chat_app.exe
+C:\Project\chat\chat_app Back\bin\Debug\net7.0\chat_app.deps.json
+C:\Project\chat\chat_app Back\bin\Debug\net7.0\chat_app.runtimeconfig.json
+C:\Project\chat\chat_app Back\bin\Debug\net7.0\chat_app.dll
+C:\Project\chat\chat_app Back\bin\Debug\net7.0\chat_app.pdb
+C:\Project\chat\chat_app Back\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Project\chat\chat_app Back\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Project\chat\chat_app Back\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\chat\chat_app Back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\chat\chat_app Back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\chat_app.csproj.AssemblyReference.cache
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\chat_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\chat_app.AssemblyInfoInputs.cache
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\chat_app.AssemblyInfo.cs
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\chat_app.csproj.CoreCompileInputs.cache
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\chat_app.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\chat_app.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\staticwebassets\msbuild.chat_app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\staticwebassets\msbuild.build.chat_app.props
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.chat_app.props
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.chat_app.props
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\staticwebassets.build.json
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\staticwebassets.development.json
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\scopedcss\bundle\chat_app.styles.css
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\chat_app.csproj.CopyComplete
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\chat_app.dll
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\refint\chat_app.dll
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\chat_app.pdb
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\chat_app.genruntimeconfig.cache
+C:\Project\chat\chat_app Back\obj\Debug\net7.0\ref\chat_app.dll
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\bin\Debug\net7.0\appsettings.Development.json
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\bin\Debug\net7.0\appsettings.json
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\bin\Debug\net7.0\chat_app.exe
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\bin\Debug\net7.0\chat_app.deps.json
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\bin\Debug\net7.0\chat_app.runtimeconfig.json
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\bin\Debug\net7.0\chat_app.dll
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\bin\Debug\net7.0\chat_app.pdb
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\chat_app.csproj.AssemblyReference.cache
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\chat_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\chat_app.AssemblyInfoInputs.cache
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\chat_app.AssemblyInfo.cs
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\chat_app.csproj.CoreCompileInputs.cache
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\chat_app.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\chat_app.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\staticwebassets\msbuild.chat_app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\staticwebassets\msbuild.build.chat_app.props
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.chat_app.props
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.chat_app.props
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\staticwebassets.build.json
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\staticwebassets.development.json
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\scopedcss\bundle\chat_app.styles.css
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\chat_app.csproj.CopyComplete
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\chat_app.dll
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\refint\chat_app.dll
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\chat_app.pdb
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\chat_app.genruntimeconfig.cache
+C:\Project\chat app\ChatApp DotNet,SignalR and React\chat_app_Back\obj\Debug\net7.0\ref\chat_app.dll
